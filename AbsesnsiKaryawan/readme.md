@@ -1,14 +1,17 @@
-This application was created for the purpose of managing apprentice attendance data. 
-This application is in the form of a website and mobile application. 
-For mobile applications intended for employees and web intended for Admin, and Head Admin. 
-This application was created using the OutSystems Service Studio platform version 11.
+This project is a continuation of the project done by the previous group. <br />
+This project is my responsibility in the Real Project session as a Front-End Developer during this bootcamp program.<br />
 
-This application doesn't need to install anything, users only need to open web and mobile attendance links. 
-Then, users log in according to their respective roles.
+This application was created for the purpose of managing apprentice attendance data. <br />
+This application is in the form of a website and mobile application. <br />
+For mobile applications intended for employees and web intended for Admin, and Head Admin. <br />
+This application was created using the OutSystems Service Studio platform version 11.<br />
 
-mobile: https://acc-dev.outsystemsenterprise.com/PreviewInDevices/?IsMobilePreview=True&DeviceName=Smartphone&URL=/mpbnc_/MyHRProfile?_ts=638029802640539313
+This application doesn't need to install anything, users only need to open web and mobile attendance links. <br />
+Then, users log in according to their respective roles.<br />
 
-web: https://acc-dev.outsystemsenterprise.com/mpncb4421/Entry1.aspx?_ts=638029802808431313
+mobile: https://acc-dev.outsystemsenterprise.com/PreviewInDevices/?IsMobilePreview=True&DeviceName=Smartphone&URL=/mpbnc_/MyHRProfile?_ts=638029802640539313<br />
+
+web: https://acc-dev.outsystemsenterprise.com/mpncb4421/Entry1.aspx?_ts=638029802808431313<br />
 
 =MOBILE= <br />
 username: melan1@ <br />
