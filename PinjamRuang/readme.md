@@ -21,3 +21,6 @@ Pass: techYess<br />
 CMS: https://acc-dev.outsystemsenterprise.com/ACCTechYesCMS/Entry1.aspx?_ts=638088025262866351<br />
 NPK: 9021A<br />
 Pass: techYess<br />
+
+Figma:<br />
+https://www.figma.com/file/bAcAiAbVZv3XKxw2SetJAK/Project-Challenge6_PinjamRuang?node-id=0%3A1&t=N6waXNzcqpj7EH6I-1<br />
