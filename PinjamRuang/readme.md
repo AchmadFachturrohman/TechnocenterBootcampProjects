@@ -14,8 +14,8 @@ In addition to its main functions, the CMS includes managing rooms, managing Pin
 and changing User passwords.
 
 Links
-User: https://acc-dev.outsystemsenterprise.com/ACCTechYesUser/Entry1.aspx?_ts=638088025890111471
-CMS: https://acc-dev.outsystemsenterprise.com/ACCTechYesCMS/Entry1.aspx?_ts=638088025262866351
+User: https://acc-dev.outsystemsenterprise.com/ACCTechYesUser/Entry1.aspx?_ts=638088025890111471<br />
+CMS: https://acc-dev.outsystemsenterprise.com/ACCTechYesCMS/Entry1.aspx?_ts=638088025262866351<br />
 
 =USER=<br />
 NPK: 9020A <br />
