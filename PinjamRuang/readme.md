@@ -1,4 +1,4 @@
-PinjamRuang is a web-based application that aims to facilitate the booking of spaces in Berijalan. 
+PinjamRuang is a web-based application that aims to facilitate the booking of spaces in Berijalan. <br />
 The expectation of this application is able to provide convenience to employees who want to use the space facilities that have been provided 
 without the need to spend time for accommodation to meet personally or contact the administration personally to make an appointment and 
 become the main portal for employees to book a space to support their work activities.
@@ -17,10 +17,10 @@ Links
 User: https://acc-dev.outsystemsenterprise.com/ACCTechYesUser/Entry1.aspx?_ts=638088025890111471
 CMS: https://acc-dev.outsystemsenterprise.com/ACCTechYesCMS/Entry1.aspx?_ts=638088025262866351
 
-=USER=
-NPK: 9020A 
-Pass: techYess
+=USER=<br />
+NPK: 9020A <br />
+Pass: techYess<br />
 
-=CMS=
-NPK: 9021A
-Pass: techYess
+=CMS=<br />
+NPK: 9021A<br />
+Pass: techYess<br />
