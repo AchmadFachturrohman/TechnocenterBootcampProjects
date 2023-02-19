@@ -13,7 +13,7 @@ On the User side, CMS has the main functions including approval or rejection of 
 In addition to its main functions, the CMS includes managing rooms, managing PinjamRuang Users, managing CMS Users, viewing the loan list, 
 and changing User passwords.
 
-Links
+Links<br />
 User: https://acc-dev.outsystemsenterprise.com/ACCTechYesUser/Entry1.aspx?_ts=638088025890111471<br />
 CMS: https://acc-dev.outsystemsenterprise.com/ACCTechYesCMS/Entry1.aspx?_ts=638088025262866351<br />
 
