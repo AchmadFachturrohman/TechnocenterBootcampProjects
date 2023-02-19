@@ -15,12 +15,9 @@ and changing User passwords.
 
 Links<br />
 User: https://acc-dev.outsystemsenterprise.com/ACCTechYesUser/Entry1.aspx?_ts=638088025890111471<br />
-CMS: https://acc-dev.outsystemsenterprise.com/ACCTechYesCMS/Entry1.aspx?_ts=638088025262866351<br />
-
-=USER=<br />
 NPK: 9020A <br />
 Pass: techYess<br />
 
-=CMS=<br />
+CMS: https://acc-dev.outsystemsenterprise.com/ACCTechYesCMS/Entry1.aspx?_ts=638088025262866351<br />
 NPK: 9021A<br />
 Pass: techYess<br />
